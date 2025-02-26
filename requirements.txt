@@ -1,0 +1,7 @@
+Flask
+torch
+pydantic
+numpy
+transformers
+datasets
+accelerate
