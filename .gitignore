@@ -4,4 +4,5 @@ __pycache__/
 *.json
 *.pt
 model/
+app/model/
 *.safetensors
