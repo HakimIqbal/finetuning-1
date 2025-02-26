@@ -6,3 +6,4 @@ __pycache__/
 model/
 app/model/
 *.safetensors
+app/model/
